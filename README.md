@@ -41,7 +41,7 @@
 ### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali sherif&theme=radical" alt="GitHub streak"/>
 </p>
 
 ---
