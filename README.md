@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:1b4965&height=200&section=header&text=Hi%20there,%20I'm%20%5BYour%20Name%5D%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:1b4965&height=200&section=header&text=Hi%20there,%20I'm%20Ali%20Sherif%20Ali%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%40+Ain+Shams+University;C%2B%2B+%7C+Java+%7C+Python+Developer;Always+learning%2C+always+building;&font=Fira+Code&center=true&width=500&height=50&color=58a6ff&vCenter=true&size=22" />
 
@@ -41,7 +41,7 @@
 ### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali sherif&theme=radical" alt="GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub streak"/>
 </p>
 
 ---
@@ -49,4 +49,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4965,100:0d1b2a&height=120&section=footer" />
 
 <p align="center">⭐ Thanks for stopping by!</p>
--->
