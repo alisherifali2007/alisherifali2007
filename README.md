@@ -1,4 +1,4 @@
-<!-- ✨ Typing Animation لاسمك الجامد ✨ -->
+<!-- ✨ Cool Dynamic Typing Animation ✨ -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Hi+There!+👋;I'm+Ali+Sherif+Ali;A+Software+Engineering+Student;" alt="Typing Animation" />
 </div>
@@ -9,18 +9,18 @@
 
 ---
 
-## 💫 عني (About Me)
+## 💫 About Me
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Nndm96Ym9paXpsbW1tcHpxcm9pY3B1amM4Z3BtYnd0dG84eThtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="250" />
 
-* 🎓 طالب هندسة برمجيات في **جامعة عين شمس** (`Software Engineering @ Ain Shams University`).
-* 💻 مهتم جداً بمجال التطوير وحل المشكلات.
-* 🚀 بسعى دايماً إني أطور من نفسي وأتعلم تكنولوجيز جديدة.
+* 🎓 Studying **Software Engineering** at **Ain Shams University**.
+* 💻 Passionate about software development, coding, and logical problem-solving.
+* 🚀 Always eager to learn new technologies, build cool projects, and level up my skills.
 
 ---
 
-## 🛠️ لغات البرمجة والمهارات (Skills & Technologies)
-<!-- الـ Icons دي بتتحرك وبشكل شيك جداً -->
+## 🛠️ Skills & Technologies
+<!-- Animated & Glowing Tech Icons -->
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,python,github,git,vscode" />
@@ -29,8 +29,8 @@
 
 ---
 
-## 📊 إحصائيات جيتهاب (GitHub Stats)
-<!-- الـ Cards دي بتعمل أنيميشن وبتتحدث تلقائي ببيانات حسابك -->
+## 📊 GitHub Stats
+<!-- Live updating statistics cards mapped to your account -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alisherifali2007&show_icons=true&theme=tokyonight&locale=en&edge_flat=false" alt="Ali's GitHub Stats" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alisherifali2007&theme=tokyonight" alt="GitHub Streak" height="150" />
@@ -44,7 +44,7 @@
 
 ---
 
-## 🌐 تواصل معايا (Connect with Me)
+## 🌐 Connect with Me
 
 <p align="center">
   <!-- LinkedIn -->
@@ -65,7 +65,7 @@
 
 ---
 
-<!-- عدّاد زوار البروفايل الخاص بيك -->
+<!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alisherifali2007&color=00F2FE&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
